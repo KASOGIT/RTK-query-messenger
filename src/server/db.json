@@ -1,0 +1,459 @@
+{
+  "conversations": [
+    {
+      "id": 1,
+      "recipientId": 2,
+      "recipientNickname": "Jeremie",
+      "senderId": 1,
+      "senderNickname": "Thibaut",
+      "lastMessageTimestamp": 1625637849
+    },
+    {
+      "id": 2,
+      "recipientId": 3,
+      "recipientNickname": "Patrick",
+      "senderId": 1,
+      "senderNickname": "Thibaut",
+      "lastMessageTimestamp": 1620284667
+    },
+    {
+      "id": 3,
+      "recipientId": 1,
+      "recipientNickname": "Thibaut",
+      "senderId": 2,
+      "senderNickname": "Jeremie",
+      "lastMessageTimestamp": 1625648667
+    },
+    {
+      "recipientId": 3,
+      "recipientNickname": "Patrick",
+      "senderId": 1,
+      "senderNickname": "Thibaut",
+      "id": 4
+    },
+    {
+      "recipientId": 3,
+      "recipientNickname": "Patrick",
+      "senderId": 1,
+      "senderNickname": "Thibaut",
+      "id": 5
+    },
+    {
+      "recipientId": 2,
+      "recipientNickname": "Jeremie",
+      "senderId": 1,
+      "senderNickname": "Thibaut",
+      "id": 6
+    },
+    {
+      "recipientId": 3,
+      "recipientNickname": "Patrick",
+      "senderId": 1,
+      "senderNickname": "Thibaut",
+      "id": 7
+    },
+    {
+      "recipientId": 2,
+      "recipientNickname": "Jeremie",
+      "senderId": 1,
+      "senderNickname": "Thibaut",
+      "id": 8
+    },
+    {
+      "recipientId": 3,
+      "recipientNickname": "Patrick",
+      "senderId": 1,
+      "senderNickname": "Thibaut",
+      "id": 9
+    },
+    {
+      "recipientId": 2,
+      "recipientNickname": "Jeremie",
+      "senderId": 1,
+      "senderNickname": "Thibaut",
+      "id": 10
+    },
+    {
+      "recipientId": 2,
+      "recipientNickname": "Jeremie",
+      "senderId": 1,
+      "senderNickname": "Thibaut",
+      "id": 11
+    },
+    {
+      "recipientId": 2,
+      "recipientNickname": "Jeremie",
+      "senderId": 1,
+      "senderNickname": "Thibaut",
+      "id": 12
+    },
+    {
+      "recipientId": 3,
+      "recipientNickname": "Patrick",
+      "senderId": 1,
+      "senderNickname": "Thibaut",
+      "id": 13
+    },
+    {
+      "recipientId": 2,
+      "recipientNickname": "Jeremie",
+      "senderId": 1,
+      "senderNickname": "Thibaut",
+      "id": 14
+    },
+    {
+      "recipientId": 2,
+      "recipientNickname": "Jeremie",
+      "senderId": 1,
+      "senderNickname": "Thibaut",
+      "id": 15
+    },
+    {
+      "recipientId": 3,
+      "recipientNickname": "Patrick",
+      "senderId": 1,
+      "senderNickname": "Thibaut",
+      "id": 16
+    },
+    {
+      "recipientId": 2,
+      "recipientNickname": "Jeremie",
+      "senderId": 1,
+      "senderNickname": "Thibaut",
+      "id": 17
+    }
+  ],
+  "messages": [
+    {
+      "id": 1,
+      "conversationId": 1,
+      "timestamp": 1625637849,
+      "authorId": 1,
+      "body": "Bonjour c'est le premier message de la première conversation"
+    },
+    {
+      "id": 2,
+      "conversationId": 1,
+      "timestamp": 1625637867,
+      "authorId": 1,
+      "body": "Bonjour c'est le second message de la première conversation"
+    },
+    {
+      "id": 3,
+      "conversationId": 1,
+      "timestamp": 1625648667,
+      "authorId": 2,
+      "body": "Bonjour c'est le troisième message de la première conversation"
+    },
+    {
+      "id": 4,
+      "conversationId": 2,
+      "timestamp": 1620284667,
+      "authorId": 2,
+      "body": "Bonjour c'est le premier message de la seconde conversation"
+    },
+    {
+      "timestamp": 1629117518411,
+      "body": "coucou",
+      "conversationId": 1,
+      "authorId": 1,
+      "id": 5
+    },
+    {
+      "timestamp": 1629118082257,
+      "body": "test",
+      "conversationId": 1,
+      "authorId": 1,
+      "id": 6
+    },
+    {
+      "timestamp": 1629118095588,
+      "body": "test j'écris un nouveau message",
+      "conversationId": 1,
+      "authorId": 1,
+      "id": 7
+    },
+    {
+      "timestamp": 1629118104839,
+      "body": "test j'écris un nouveau message et encore un autre",
+      "conversationId": 1,
+      "authorId": 1,
+      "id": 8
+    },
+    {
+      "timestamp": 1629118256300,
+      "body": "test j'écris un nouveau message et encore un autre",
+      "conversationId": 1,
+      "authorId": 1,
+      "id": 9
+    },
+    {
+      "timestamp": 1629118406415,
+      "body": "test j'écris un nouveau message et encore un autre",
+      "conversationId": 1,
+      "authorId": 1,
+      "id": 10
+    },
+    {
+      "timestamp": 1629118415592,
+      "body": "plop",
+      "conversationId": 1,
+      "authorId": 1,
+      "id": 11
+    },
+    {
+      "timestamp": 1629118462439,
+      "body": "test",
+      "conversationId": 1,
+      "authorId": 1,
+      "id": 12
+    },
+    {
+      "timestamp": 1629118908851,
+      "body": "cccc",
+      "conversationId": 1,
+      "authorId": 1,
+      "id": 13
+    },
+    {
+      "timestamp": 1629118971904,
+      "body": "ccc",
+      "conversationId": 1,
+      "authorId": 1,
+      "id": 14
+    },
+    {
+      "timestamp": 1629119000188,
+      "body": "test",
+      "conversationId": 1,
+      "authorId": 1,
+      "id": 15
+    },
+    {
+      "timestamp": 1629119063606,
+      "body": "aaaaa",
+      "conversationId": 1,
+      "authorId": 1,
+      "id": 16
+    },
+    {
+      "timestamp": 1629119403385,
+      "body": "coucou",
+      "conversationId": 1,
+      "authorId": 1,
+      "id": 17
+    },
+    {
+      "timestamp": 1629119407030,
+      "body": "test",
+      "conversationId": 1,
+      "authorId": 1,
+      "id": 18
+    },
+    {
+      "timestamp": 1629122172781,
+      "body": "J'y répond",
+      "conversationId": 2,
+      "authorId": 1,
+      "id": 19
+    },
+    {
+      "timestamp": 1629125416987,
+      "body": "coucou",
+      "conversationId": 4,
+      "authorId": 1,
+      "id": 20
+    },
+    {
+      "timestamp": 1629125506710,
+      "body": "coucuo",
+      "conversationId": 5,
+      "authorId": 1,
+      "id": 21
+    },
+    {
+      "timestamp": 1629125709162,
+      "body": "coucou",
+      "conversationId": 1,
+      "authorId": 1,
+      "id": 22
+    },
+    {
+      "timestamp": 1629125741022,
+      "body": "coucouc",
+      "conversationId": 1,
+      "authorId": 1,
+      "id": 23
+    },
+    {
+      "timestamp": 1629125917987,
+      "body": "coucou",
+      "conversationId": 6,
+      "authorId": 1,
+      "id": 24
+    },
+    {
+      "timestamp": 1629126483169,
+      "body": "test",
+      "conversationId": 9,
+      "authorId": 1,
+      "id": 25
+    },
+    {
+      "timestamp": 1629126492127,
+      "body": "coucou",
+      "conversationId": 10,
+      "authorId": 1,
+      "id": 26
+    },
+    {
+      "timestamp": 1629126502863,
+      "body": "kjwdshkasjhdjk",
+      "conversationId": 11,
+      "authorId": 1,
+      "id": 27
+    },
+    {
+      "timestamp": 1629127135167,
+      "body": "Test",
+      "conversationId": 1,
+      "authorId": 1,
+      "id": 28
+    },
+    {
+      "timestamp": 1629127146266,
+      "body": "dudeeee",
+      "conversationId": 7,
+      "authorId": 1,
+      "id": 29
+    },
+    {
+      "timestamp": 1629127587478,
+      "body": "coucocu",
+      "conversationId": 13,
+      "authorId": 1,
+      "id": 30
+    },
+    {
+      "timestamp": 1629127594843,
+      "body": "couccou",
+      "conversationId": 14,
+      "authorId": 1,
+      "id": 31
+    },
+    {
+      "timestamp": 1629140903885,
+      "body": "Nouveau message",
+      "conversationId": 1,
+      "authorId": 1,
+      "id": 32
+    },
+    {
+      "timestamp": 1629141059705,
+      "body": "Pourquoi tu ne réponds pas ?",
+      "conversationId": 2,
+      "authorId": 1,
+      "id": 33
+    },
+    {
+      "timestamp": 1629141063546,
+      "body": "et oh",
+      "conversationId": 2,
+      "authorId": 1,
+      "id": 34
+    },
+    {
+      "timestamp": 1629141068752,
+      "body": "je vais yte spam",
+      "conversationId": 2,
+      "authorId": 1,
+      "id": 35
+    },
+    {
+      "timestamp": 1629141071889,
+      "body": "jusqu'au scroll",
+      "conversationId": 2,
+      "authorId": 1,
+      "id": 36
+    },
+    {
+      "timestamp": 1629141073401,
+      "body": "kjdskjdh",
+      "conversationId": 2,
+      "authorId": 1,
+      "id": 37
+    },
+    {
+      "timestamp": 1629141074451,
+      "body": "skdjdlkj",
+      "conversationId": 2,
+      "authorId": 1,
+      "id": 38
+    },
+    {
+      "timestamp": 1629141075653,
+      "body": "asjklksj",
+      "conversationId": 2,
+      "authorId": 1,
+      "id": 39
+    },
+    {
+      "timestamp": 1629141076897,
+      "body": "sjdkjdlk",
+      "conversationId": 2,
+      "authorId": 1,
+      "id": 40
+    },
+    {
+      "timestamp": 1629141110331,
+      "body": "Nouvelle conversation :)",
+      "conversationId": 15,
+      "authorId": 1,
+      "id": 41
+    },
+    {
+      "timestamp": 1629141144397,
+      "body": "It working on mobile too",
+      "conversationId": 2,
+      "authorId": 1,
+      "id": 42
+    },
+    {
+      "timestamp": 1630915677275,
+      "body": "test",
+      "conversationId": 1,
+      "authorId": 1,
+      "id": 43
+    },
+    {
+      "timestamp": 1630915706856,
+      "body": "coucou",
+      "conversationId": 17,
+      "authorId": 1,
+      "id": 44
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "nickname": "Thibaut",
+      "email": "thib@email.com",
+      "password": "$2a$10$pckuh7eFf2pxPeFeFZzrD.ChZ7aL/ji0aAn5JRCakQCem/xtuNEBm",
+      "avatarUrl": "https://robohash.org/af8a140c5e6d5a75714ce3d480391312?set=set2&bgset=bg1&size=400x400"
+    },
+    {
+      "id": 2,
+      "nickname": "Jeremie",
+      "email": "jerem@email.com",
+      "password": "$2a$10$pckuh7eFf2pxPeFeFZzrD.ChZ7aL/ji0aAn5JRCakQCem/xtuNEBm",
+      "avatarUrl": "https://robohash.org/1c8e8a6e8d1fe52b782b280909abeb38?set=set2&bgset=bg1&size=400x400"
+    },
+    {
+      "id": 3,
+      "nickname": "Patrick",
+      "email": "pat@email.com",
+      "password": "$2a$10$pckuh7eFf2pxPeFeFZzrD.ChZ7aL/ji0aAn5JRCakQCem/xtuNEBm",
+      "avatarUrl": "https://robohash.org/2eab9d9474abd34ea7259a2121b9e888?set=set2&bgset=bg1&size=400x400"
+    }
+  ]
+}

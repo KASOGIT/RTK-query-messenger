@@ -1,0 +1,49 @@
+{
+  "name": "rtk-query-messenger",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "start-server": "json-server --watch src/server/db.json --routes src/server/routes.json --port 3005 -m ./node_modules/json-server-auth",
+    "test": "jest",
+    "lint": "next lint --no-error-on-unmatched-pattern"
+  },
+  "engines": {
+    "node": ">=14.17.2"
+  },
+  "dependencies": {
+    "@emotion/cache": "11.4.0",
+    "@emotion/react": "11.4.1",
+    "@emotion/server": "11.4.0",
+    "@emotion/styled": "11.3.0",
+    "@material-ui/core": "5.0.0-beta.3",
+    "@material-ui/icons": "5.0.0-beta.4",
+    "@material-ui/lab": "5.0.0-alpha.42",
+    "@reduxjs/toolkit": "1.6.1",
+    "formik": "2.2.9",
+    "next": "^11.0.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-redux": "7.2.4",
+    "redux": "4.1.1",
+    "yup": "0.32.9"
+  },
+  "devDependencies": {
+    "@testing-library/dom": "^8.1.0",
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^12.0.0",
+    "@types/node": "^16.0.0",
+    "@types/react": "^17.0.13",
+    "babel-jest": "^27.0.6",
+    "eslint": "^7.30.0",
+    "eslint-config-next": "^11.0.1",
+    "identity-obj-proxy": "^3.0.0",
+    "jest": "^27.0.6",
+    "json-server": "^0.16.3",
+    "json-server-auth": "2.1.0",
+    "prettier": "2.3.2",
+    "typescript": "^4.3.5"
+  }
+}

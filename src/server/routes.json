@@ -1,0 +1,7 @@
+{
+  "/conversations/:id": "/660/conversations?senderId=:id",
+  "/conversation/:id": "/660/conversations?id=:id",
+  "/messages/:id": "/660/messages?conversationId=:id",
+  "/message/:id": "/660/messages?id=:id",
+  "/user/:id": "/660/users?id=:id"
+}
